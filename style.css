@@ -6,3 +6,7 @@
     height: 200px;
     
 }
+
+#bloco-1 .card-text{
+    padding: 8px 12px;
+}
