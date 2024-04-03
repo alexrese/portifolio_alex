@@ -1,6 +1,12 @@
 #bloco-1{
     background-color: brown;
+    background-image: url(img/fundo.jpg);
+    background-position-x: center;
+    background-size: cover;
+    opacity: 0.9;
+    background-attachment: fixed;
 }
+
 
 #poster{
     height: 200px;
